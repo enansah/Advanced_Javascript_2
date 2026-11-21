@@ -164,3 +164,6 @@ try {
 } catch(err) {
     console.log(err)
 } */ 
+
+
+    //Promise.all: is an array of all successful promises 
