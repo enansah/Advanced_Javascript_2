@@ -49,7 +49,3 @@ getSuggestion() */
 
 
 
-//Promises
-
-
- 
